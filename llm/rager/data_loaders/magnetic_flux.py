@@ -71,7 +71,7 @@ def load_data(*args, **kwargs):
         return questions
 
     faq_documents = {
-        'llm-zoomcamp': '1T3MdwUvqCL3jrh3d3VCXQ8xE0UqRzI3bfgpfBq3ZWG0',
+        'llm-zoomcamp': '1m2KexowAXTmexfC5rVTCSnaShvdUQ8Ag2IEiwBDHxN0',
     }
 
     documents = []
